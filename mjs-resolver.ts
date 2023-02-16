@@ -1,4 +1,4 @@
-const mjsResolver = (path, options) => {
+const mjsResolver = (path: any, options: any) => {
     const mjsExtRegex = /\.mjs$/i
     const resolver = options.defaultResolver
     if (mjsExtRegex.test(path)) {
