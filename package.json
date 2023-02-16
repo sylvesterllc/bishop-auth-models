@@ -1,12 +1,12 @@
 {
-  "name": "@sylvesterllc/auth-models",
+  "name": "@sylvesterllc/bishop-auth-models",
   "version": "0.0.1",
   "description": "Authenication Models for working with Bishop using Cognito",
   "main": "app/index.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sylvesterllc/auth-models.git"
+    "url": "https://github.com/sylvesterllc/bishop-auth-models.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@sylvesterllc"
