@@ -1,6 +1,6 @@
 {
   "name": "@sylvesterllc/bishop-auth-models",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Authenication Models for working with Bishop using Cognito",
   "main": "app/index.js",
   "type": "module",
